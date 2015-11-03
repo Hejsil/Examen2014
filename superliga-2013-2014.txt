@@ -1,0 +1,230 @@
+Fre     19/07 18.30     AGF - FCM      0 - 2     9.364   
+Lor     20/07 17.00     VFF - RFC      2 - 2     4.771   
+Son     21/07 14.00     OB - SDR       1 - 1     7.114   
+Son     21/07 17.00     BIF - FCV      1 - 1     18.770  
+Son     21/07 19.00     AAB - FCK      2 - 1     7.062   
+Man     22/07 19.00     EFB - FCN      4 - 0     7.594   
+
+Fre     26/07 18.30     FCN - VFF      1 - 1     5.067  
+Lor     27/07 17.00     FCV - AGF      0 - 2     3.859   
+Son     28/07 14.00     RFC - OB       1 - 1     4.852   
+Son     28/07 17.00     SDR - BIF      1 - 0     5.700   
+Son     28/07 19.00     FCM - FCK      1 - 0     8.759   
+Man     29/07 19.00     EFB - AAB      1 - 2     9.517   
+
+Fre     02/08 18.30     FCM - SDR      2 - 1     5.145  
+Lor     03/08 17.00     AGF - FCN      2 - 1     6.997   
+Son     04/08 14.00     OB - VFF       4 - 2     7.889   
+Son     04/08 17.00     FCK - RFC      1 - 3     12.956  
+Son     04/08 19.00     BIF - EFB      0 - 2     14.771  
+Man     05/08 19.00     FCV - AAB      2 - 1     4.688   
+
+Fre     09/08 18.30     VFF - BIF      2 - 2     9.047  
+Lor     10/08 17.00     EFB - AGF      5 - 1     8.012   
+Son     11/08 15.00     RFC - FCM      1 - 3     5.064   
+Son     11/08 17.00     AAB - OB       0 - 0     6.369   
+Son     11/08 19.00     FCN - FCK      2 - 2     7.769   
+Man     12/08 19.00     SDR - FCV      0 - 0     2.739   
+
+Fre     16/08 18.30     FCM - BIF      5 - 2     10.745 
+Lor     17/08 17.00     FCN - AAB      2 - 1     4.013   
+Son     18/08 14.00     FCV - OB       1 - 1     4.434   
+Son     18/08 17.00     SDR - VFF      0 - 3     2.654   
+Son     18/08 19.00     FCK - AGF      1 - 1     13.316  
+Man     19/08 19.00     RFC - EFB      3 - 2     3.850   
+
+Fre     23/08 18.30     AGF - SDR      3 - 1     8.925  
+Son     25/08 13.00     OB - FCN       1 - 0     7.716   
+Son     25/08 15.00     VFF - EFB      3 - 1     5.166   
+Son     25/08 17.00     FCK - FCV      1 - 1     18.778  
+Son     25/08 19.00     BIF - RFC      0 - 0     16.086  
+Man     26/08 19.00     AAB - FCM      1 - 1     7.392   
+
+Fre     30/08 18.30     OB - AGF       3 - 6     8.069  
+Son     01/09 11.00     FCN - FCV      1 - 2     4.179   
+Son     01/09 15.00     EFB - FCM      1 - 1     8.568   
+Son     01/09 17.00     VFF - FCK      1 - 4     8.212   
+Son     01/09 19.00     AAB - BIF      2 - 1     8.566   
+Man     02/09 19.00     RFC - SDR      0 - 2     4.015   
+
+Fre     13/09 18.30     SDR - AAB      1 - 3     3.123  
+Lor     14/09 17.00     FCK - EFB      1 - 1     20.697  
+Son     15/09 14.00     AGF - VFF      0 - 1     9.625   
+Son     15/09 17.00     FCV - RFC      2 - 0     4.181   
+Son     15/09 19.00     BIF - OB       2 - 1     12.487  
+Man     16/09 19.00     FCM - FCN      2 - 1     6.290   
+
+Fre     20/09 18.30     RFC - AAB      3 - 2     5.690  
+Lor     21/09 17.00     FCM - VFF      0 - 0     9.195   
+Son     22/09 14.00     SDR - FCN      2 - 0     2.871   
+Son     22/09 17.00     AGF - BIF      1 - 3     14.488  
+Son     22/09 19.00     FCK - OB       2 - 1     11.008  
+Man     23/09 19.00     FCV - EFB      1 - 3     5.285   
+
+Fre     27/09 18.30     VFF - FCV      2 - 0     4.532  
+Lor     28/09 16.00     BIF - FCK      3 - 2     21.798  
+Son     29/09 14.00     EFB - SDR      4 - 1     7.741   
+Son     29/09 17.00     AAB - AGF      0 - 0     7.447   
+Son     29/09 19.00     OB - FCM       1 - 1     8.633   
+Man     30/09 19.00     FCN - RFC      1 - 0     4.417   
+
+Lor     05/10 17.00     RFC - AGF      2 - 2     7.025  
+Son     06/10 13.00     EFB - OB       1 - 3     6.967   
+Son     06/10 15.00     AAB - VFF      3 - 1     6.892   
+Son     06/10 17.00     FCK - SDR      2 - 1     12.258  
+Son     06/10 19.00     FCN - BIF      1 - 1     9.726   
+Man     07/10 19.00     FCM - FCV      2 - 2     6.195   
+
+Fre     18/10 18.30     AGF - FCN      0 - 1     7.040  
+Lor     19/10 17.00     FCM - RFC      1 - 1     6.857   
+Son     20/10 14.00     FCV - EFB      2 - 1     3.213   
+Son     20/10 17.00     BIF - VFF      0 - 0     16.607  
+Son     20/10 19.00     FCK - AAB      3 - 0     13.693  
+Man     21/10 19.00     SDR - OB       1 - 5     3.169   
+
+Fre     25/10 18.30     VFF - FCV      4 - 1     4.221  
+Lor     26/10 17.00     FCN - FCM      2 - 1     5.911   
+Son     27/10 14.00     AAB - SDR      2 - 0     5.469   
+Son     27/10 17.00     RFC - FCK      1 - 1     5.506   
+Son     27/10 19.15     OB - BIF       0 - 0     11.524  
+Man     28/10 19.00     EFB - AGF      0 - 2     4.165   
+
+Fre     01/11 18.30     SDR - RFC      1 - 3     1.761  
+Lor     02/11 15.00     FCK - FCN      4 - 0     15.397  
+Lor     02/11 17.00     AAB - OB       1 - 0     5.289   
+Son     03/11 14.00     AGF - VFF      2 - 1     6.785   
+Son     03/11 19.00     FCM - EFB      3 - 0     6.726   
+Man     04/11 19.00     FCV - BIF      0 - 2     5.258   
+
+Fre     08/11 18.30     VFF - FCM      2 - 3     7.563  
+Lor     09/11 17.00     FCN - SDR      3 - 0     3.217   
+Son     10/11 14.00     OB - FCV       1 - 3     7.813   
+Son     10/11 17.00     EFB - FCK      1 - 1     7.663   
+Son     10/11 19.00     BIF - AGF      3 - 0     12.790  
+Man     11/11 19.00     RFC - AAB      1 - 4     5.624   
+
+Fre     22/11 18.30     SDR - EFB      1 - 0     1.656  
+Lor     23/11 17.00     RFC - OB       1 - 1     3.824   
+Son     24/11 14.00     AGF - FCV      2 - 2     5.959   
+Son     24/11 17.00     FCK - VFF      4 - 1     14.227  
+Son     24/11 19.15     FCM - BIF      0 - 1     10.017  
+Man     25/11 19.00     AAB - FCN      1 - 1     5.551   
+
+Fre     29/11 18.30     FCV - FCM      0 - 1     3.147  
+Lor     30/11 17.00     VFF - SDR      2 - 2     3.478   
+Son     01/12 14.00     FCN - RFC      1 - 1     3.627   
+Son     01/12 17.00     OB - AGF       4 - 1     5.728   
+Son     01/12 19.00     BIF - FCK      1 - 3     21.624  
+Man     02/12 19.00     EFB - AAB      2 - 2     5.013   
+
+Fre     06/12 18.30     FCN - OB       2 - 0     3.412  
+Lor     07/12 17.00     FCK - FCV      1 - 0     11.179  
+Son     08/12 14.00     RFC - EFB      1 - 0     4.114   
+Son     08/12 16.30     FCM - AGF      3 - 0     5.149   
+Son     08/12 19.00     SDR - BIF      1 - 1     2.572   
+Man     09/12 19.00     AAB - VFF      5 - 0     7.796   
+
+Fre     21/02 18.30     FCV - SDR      0 - 4     2.454  
+Lor     22/02 17.00     OB - FCM       2 - 1     7.783   
+Son     23/02 14.00     VFF - RFC      1 - 1     4.546   
+Son     23/02 17.00     AGF - FCK      1 - 1     9.510   
+Son     23/02 19.00     BIF - AAB      2 - 2     15.893  
+Man     24/02 19.00     EFB - FCN      2 - 1     5.159   
+
+Fre     28/02 18.30     FCN - VFF      2 - 0     3.112  
+Lor     01/03 17.00     SDR - AGF      1 - 2     2.928   
+Son     02/03 13.00     EFB - OB       1 - 0     6.312   
+Son     02/03 15.00     AAB - FCV      0 - 0     5.519   
+Son     02/03 17.00     RFC - BIF      0 - 1     6.267   
+Son     02/03 19.00     FCK - FCM      1 - 5     20.764  
+
+Fre     07/03 18.30     FCV - RFC      1 - 1     2.201  
+Lor     08/03 17.00     AGF - AAB      2 - 5     6.570   
+Son     09/03 14.00     VFF - EFB      1 - 3     3.834   
+Son     09/03 17.00     BIF - FCN      4 - 1     18.086  
+Son     09/03 19.00     OB - FCK       0 - 1     10.574  
+Man     10/03 19.00     FCM - SDR      2 - 0     8.164   
+
+Fre     14/03 18.30     SDR - FCK      0 - 0     3.871  
+Lor     15/03 17.00     FCN - FCV      1 - 2     3.382   
+Son     16/03 14.00     OB - VFF       1 - 1     5.618   
+Son     16/03 17.00     AAB - FCM      1 - 0     11.530  
+Son     16/03 19.00     EFB - BIF      0 - 0     11.417  
+Man     17/03 19.00     RFC - AGF      1 - 3     5.900   
+
+Fre     21/03 18.30     FCV - VFF      0 - 1     3.167  
+Lor     22/03 17.00     FCM - FCN      0 - 1     6.881   
+Son     23/03 14.00     SDR - AAB      3 - 2     2.615   
+Son     23/03 17.00     FCK - RFC      1 - 1     14.507  
+Son     23/03 19.00     BIF - OB       1 - 2     15.182  
+Man     24/03 19.00     AGF - EFB      0 - 3     6.455   
+
+Fre     28/03 18.30     OB - SDR       2 - 2     6.099  
+Lor     29/03 17.00     EFB - FCV      0 - 0     7.325   
+Son     30/03 14.00     RFC - FCM      0 - 3     5.247   
+Son     30/03 17.00     VFF - BIF      0 - 1     7.736   
+Son     30/03 19.00     AAB - FCK      2 - 1     11.491  
+Man     31/03 19.00     FCN - AGF      1 - 0     5.469   
+
+Fre     04/04 18.30     AGF - RFC      0 - 1     6.828  
+Lor     05/04 17.00     FCM - AAB      2 - 3     11.535  
+Son     06/04 14.00     VFF - OB       2 - 2     4.079   
+Son     06/04 17.00     FCK - SDR      2 - 0     11.023  
+Son     06/04 19.30     BIF - EFB      1 - 0     11.651  
+Man     07/04 19.00     FCV - FCN      0 - 0     2.197   
+
+Fre     11/04 18.30     SDR - FCV      1 - 1     3.255  
+Lor     12/04 17.00     FCM - OB       0 - 2     7.254   
+Son     13/04 14.00     RFC - VFF      3 - 1     4.593   
+Son     13/04 17.00     FCK - AGF      1 - 0     15.427  
+Son     13/04 19.00     AAB - BIF      2 - 0     13.139  
+Man     14/04 19.00     FCN - EFB      0 - 1     4.257   
+
+Ons     16/04 20.00     VFF - AAB      0 - 2     6.803  
+Tor     17/04 15.00     OB - FCN       0 - 1     7.475   
+Tor     17/04 17.00     EFB - RFC      0 - 3     6.334   
+Tor     17/04 19.00     FCV - FCK      0 - 1     4.456   
+Fre     18/04 17.00     BIF - SDR      3 - 1     13.072  
+Fre     18/04 19.00     AGF - FCM      0 - 4     5.932   
+
+Son     20/04 15.00     FCV - OB       1 - 0     2.794  
+Son     20/04 17.00     AAB - RFC      1 - 2     10.005  
+Man     21/04 13.00     SDR - FCN      3 - 1     2.746   
+Man     21/04 15.00     FCM - VFF      5 - 2     8.903   
+Man     21/04 17.00     AGF - BIF      1 - 2     9.634   
+Man     21/04 19.00     FCK - EFB      2 - 2     11.917  
+
+Fre     25/04 18.30     RFC - SDR      1 - 1     5.567  
+Lor     26/04 17.00     OB - AAB       2 - 3     8.495   
+Son     27/04 14.00     VFF - AGF      0 - 3     6.434   
+Son     27/04 17.00     BIF - FCV      2 - 2     16.751  
+Son     27/04 19.00     FCN - FCK      1 - 0     5.146   
+Man     28/04 19.00     EFB - FCM      0 - 0     10.320  
+
+Fre     02/05 18.30     RFC - FCN      0 - 1     5.612  
+Lor     03/05 17.00     AAB - EFB      0 - 2     11.802  
+Son     04/05 14.00     SDR - VFF      1 - 0     8.357   
+Son     04/05 17.00     FCM - FCV      3 - 1     8.199   
+Son     04/05 19.00     FCK - BIF      1 - 1     32.846  
+Man     05/05 19.00     AGF - OB       0 - 1     6.607   
+
+Ons     07/05 18.00     EFB - SDR      2 - 1     8.379  
+Ons     07/05 20.00     FCN - AAB      2 - 4     6.872   
+Tor     08/05 18.00     VFF - FCK      0 - 2     4.701   
+Tor     08/05 18.00     OB - RFC       2 - 1     6.026   
+Tor     08/05 20.00     BIF - FCM      3 - 1     12.440  
+Tor     08/05 20.00     FCV - AGF      2 - 1     3.959   
+
+Son     11/05 17.00     VFF - FCN      1 - 3     4.728  
+Son     11/05 17.00     BIF - RFC      1 - 1     16.891  
+Son     11/05 17.00     FCV - AAB      0 - 0     4.473   
+Son     11/05 17.00     AGF - SDR      0 - 3     9.382   
+Son     11/05 17.00     FCM - FCK      2 - 3     11.021  
+Son     11/05 17.00     OB - EFB       1 - 2     8.552   
+
+Son     18/05 17.00     FCK - OB       3 - 2     17.251 
+Son     18/05 17.00     SDR - FCM      3 - 1     5.678   
+Son     18/05 17.00     AAB - AGF      1 - 0     12.847  
+Son     18/05 17.00     RFC - FCV      1 - 1     5.156   
+Son     18/05 17.00     FCN - BIF      2 - 2     8.341   
+Son     18/05 17.00     EFB - VFF      0 - 0     9.853   
